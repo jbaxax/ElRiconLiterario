@@ -1,0 +1,182 @@
+[
+    {
+        "id": "libro-01",
+        "titulo": "Amigo Imaginario",
+        "imagen": "./img2/libro1.jpeg",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-02",
+        "titulo": "El Baile de los Muertos",
+        "imagen": "./img2/libro2.jpeg",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-03",
+        "titulo": "Stephen King",
+        "imagen": "./img2/libro3.jpeg",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-04",
+        "titulo": "Cuentos Macabros",
+        "imagen": "./img2/libro4.jpeg",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-05",
+        "titulo": "Historias de Terror",
+        "imagen": "./img2/libro5.jpeg",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-06",
+        "titulo": "Los Sonambulos",
+        "imagen": "./img2/libro6.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-07",
+        "titulo": "El Hombre de Tiza",
+        "imagen": "./img2/libro7.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-08",
+        "titulo": "Carmilla",
+        "imagen": "./img2/libro8.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-09",
+        "titulo": "Tu Tambien Flotaras",
+        "imagen": "./img2/libro9.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-10",
+        "titulo": "Historia de Venecia",
+        "imagen": "./img2/libro10.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"libro-11",
+        "titulo": "Martires de Japon",
+        "imagen": "./img2/libro11.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-12",
+        "titulo": "Una Historia del Mundo",
+        "imagen": "./img2/libro12.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-13",
+        "titulo": "Historia Breve del Mundo",
+        "imagen": "./img2/libro13.jpeg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-14",
+        "titulo": "Historia de la Economia",
+        "imagen": "./img2/libro14.jpeg",
+        "categoria": {
+            "nombre": "Historia",
+            "id": "historia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-15",
+        "titulo": "Historia de España",
+        "imagen": "./img2/libro15.jpeg",
+        "categoria": {
+            "nombre": "Historia",
+            "id": "historia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-16",
+        "titulo": "Cristianismo",
+        "imagen": "./img2/libro16.jpeg",
+        "categoria": {
+            "nombre": "Historia",
+            "id": "historia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-17",
+        "titulo": "Historia del Arte",
+        "imagen": "./img2/libro17.jpeg",
+        "categoria": {
+            "nombre": "Historia",
+            "id": "historia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "libro-18",
+        "titulo": "Otra Historia de España",
+        "imagen": "./img2/libro18.jpeg",
+        "categoria": {
+            "nombre": "Historia",
+            "id": "historia"
+        },
+        "precio": 1000
+    }
+]
